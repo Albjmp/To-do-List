@@ -3,7 +3,7 @@
     "short_name": "Todo",
     "icons": [
       {
-        "src": "./assets/To-do.png",
+        "src": "./To-do.png",
         "sizes": "192x192",
         "type": "image/png"
        
